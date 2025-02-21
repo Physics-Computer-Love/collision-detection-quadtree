@@ -2,7 +2,11 @@
 
 Quadtree is a hierarchical data structure (tree) used to organize and divide a two-dimensional space into four smaller regions, called quadrants. This process occurs recursively: each internal node of the tree always branches into four children, while the leaf nodes represent the final regions, which do not need to be subdivided further. This structure is especially useful for efficiently storing, manipulating and searching spatial data.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xc5D7Uvx6zk?si=UhIz9hmGLjsOObYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<video width="320" height="240" controls>
+  <source src="QuadtreeVisualization.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ### Quadtree and Physics: Robbie's Challenge
