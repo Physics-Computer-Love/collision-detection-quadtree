@@ -1,4 +1,4 @@
-## Clustering particle collisions with Quadtree
+## Quadtree in Particle Physics: A Computational Approach
 
 Quadtree is a hierarchical data structure (tree) used to organize and divide a two-dimensional space into four smaller regions, called quadrants. This process occurs recursively: each internal node of the tree always branches into four children, while the leaf nodes represent the final regions, which do not need to be subdivided further. This structure is especially useful for efficiently storing, manipulating and searching spatial data.
 
